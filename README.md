@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# RAG Pharma Support System
+# RAG Pharma Support System
 
 A starter Python project for building a pharma-focused support assistant with Retrieval-Augmented Generation (RAG).
 
@@ -121,6 +120,3 @@ The API key was exposed in terminal history during setup. Rotate/revoke that key
 3. Build embeddings + FAISS indexing in `src/vector_store.py`.
 4. Connect retrieval + response generation in `src/rag_pipelines.py`.
 5. Add Streamlit UI after pipeline works in CLI.
-=======
-# RAG-Capstone-Project
->>>>>>> 1c0b2dd9669ca016cb85c79b063601f22f87593a
